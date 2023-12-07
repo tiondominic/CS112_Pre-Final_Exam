@@ -1,4 +1,5 @@
 import time
+print("COMPUTER PROGRAMMING 1 - PRE-FINAL EXAM\nCreated by: James Dominic P. Tion\n")
 
 def numCheck(number): #checks if a number is negative or not
     numinput = int(number)
